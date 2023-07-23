@@ -7,4 +7,4 @@ exit unless "restaurant".include? "aura"
 first_name = "Umair"
 last_name = "Imran"
 
-print first_name + last_name + num
+print first_name + last_name
