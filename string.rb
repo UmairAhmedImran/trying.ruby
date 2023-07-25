@@ -12,4 +12,5 @@ puts phrase.include? "Umair" # asking if the defined string has the elemnt or no
 
 puts phrase[0]
 puts phrase[0, 7] # start 0 and end at 7 but not 7.
-puts phrase.index("U") # shows here the character is.
+puts phrase.index("U") # shows where the character start.
+
